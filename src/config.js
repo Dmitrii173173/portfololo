@@ -11,8 +11,9 @@ import HeroDark from "./images/hero-dark.jpg";
 // Projects Images (add your images to the images directory and import below)
 import Logo from "./images/logo.svg";
 
-import MLImage from "./items/ml.jpg";
-import CudaImage from "./items/CUDA.jpg";
+// import MLImage from "./items/ml.jpg";
+import MLImage from "./images/ml.jpg";
+import CudaImage from "./images/CUDA.jpg";
 
 /* START HERE
  **************************************************************
