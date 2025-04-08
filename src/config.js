@@ -59,7 +59,7 @@ export const skillData = [
   {
     id: 3,
     skill: <img src={MLImage} alt="Machine Learning" className="display-4" />,
-    name: "machine learning	",
+    name: "Machine Learning	",
   },
   {
     id: 4,
