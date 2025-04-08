@@ -44,38 +44,38 @@ export const moreInfo =
 export const skillData = [
   {
     id: 1,
-    skill: <Icon icon="mdi:language-html5" className="display-4" />,
-    name: "HTML5",
+    skill: <Icon icon="logos:pytorch" className="display-4" />,
+    name: "PyTorch",
   },
   {
     id: 2,
-    skill: <Icon icon="ion:logo-css3" className="display-4" />,
-    name: "CSS3",
+    skill: <Icon icon="logos:tensorflow" className="display-4" />,
+    name: "TensorFlow",
   },
   {
     id: 3,
-    skill: <Icon icon="fa6-brands:js" className="display-4" />,
-    name: "JavaScript",
+    skill: <Icon icon="logos:machine-learning" className="display-4" />,
+    name: "Machine Learning",
   },
   {
     id: 4,
-    skill: <Icon icon="ri:bootstrap-fill" className="display-4" />,
-    name: "BootStrap",
+    skill: <Icon icon="logos:python" className="display-4" />,
+    name: "Python",
   },
   {
     id: 5,
-    skill: <Icon icon="mdi:react" className="display-4" />,
-    name: "React",
+    skill: <Icon icon="logos:nvidia-cuda" className="display-4" />,
+    name: "CUDA",
   },
   {
     id: 6,
-    skill: <Icon icon="file-icons:styledcomponents" className="display-4" />,
-    name: "Styled Components",
+    skill: <Icon icon="logos:jupyter" className="display-4" />,
+    name: "Jupyter Notebook",
   },
   {
     id: 7,
-    skill: <Icon icon="akar-icons:redux-fill" className="display-4" />,
-    name: "Redux",
+    skill: <Icon icon="fa6-brands:js" className="display-4" />,
+    name: "JavaScript",
   },
   {
     id: 8,
@@ -88,6 +88,7 @@ export const skillData = [
     name: "GitHub",
   },
 ];
+
 
 // Resume link (string - "https://YourResumeUrl") - I am using CloudFront to share my resume (https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html)
 export const resume = null;
