@@ -54,8 +54,8 @@ export const skillData = [
   },
   {
     id: 3,
-    skill: <Icon icon="logos:machine-learning" className="display-4" />,
-    name: "Machine Learning",
+    skill: <Icon icon="logos:scikit-learn" className="display-4" />,
+    name: "Scikit-learn	",
   },
   {
     id: 4,
@@ -64,13 +64,13 @@ export const skillData = [
   },
   {
     id: 5,
-    skill: <Icon icon="logos:nvidia-cuda" className="display-4" />,
+    skill: <Icon icon="logos:cuda" className="display-4" />,
     name: "CUDA",
   },
   {
     id: 6,
-    skill: <Icon icon="logos:jupyter" className="display-4" />,
-    name: "Jupyter Notebook",
+    skill: <Icon icon="simple-icons:huggingface" className="display-4" />,
+    name: "Hugging Face	",
   },
   {
     id: 7,
@@ -112,8 +112,8 @@ export const projectCardImages = [
   Add your formspree endpoint below.
   https://formspree.io/
 */
-// export const formspreeUrl = "https://formspree.io/f/YourEndpoint";
-export const formspreeUrl = import.meta.env.VITE_FORMSPREE_URL;
+export const formspreeUrl = "https://formspree.io/f/YourEndpoint";
+// export const formspreeUrl = import.meta.env.VITE_FORMSPREE_URL;
 
 // Footer icons theme (light or dark)
 export const footerTheme = "dark";
