@@ -54,7 +54,7 @@ export const skillData = [
   },
   {
     id: 3,
-    skill: <Icon icon="logos:machine-learning" className="display-4" />,
+    skill: <Icon icon="simple-icons:machinelearning" className="display-4" />,
     name: "Machine Learning",
   },
   {
