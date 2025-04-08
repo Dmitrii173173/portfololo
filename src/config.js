@@ -11,6 +11,9 @@ import HeroDark from "./images/hero-dark.jpg";
 // Projects Images (add your images to the images directory and import below)
 import Logo from "./images/logo.svg";
 
+import MLImage from "./items/ml.jpg";
+import CudaImage from "./items/CUDA.jpg";
+
 /* START HERE
  **************************************************************
   Add your GitHub username (string - "YourUsername") below.
@@ -54,8 +57,8 @@ export const skillData = [
   },
   {
     id: 3,
-    skill: <Icon icon="logos:scikit-learn" className="display-4" />,
-    name: "Scikit-learn	",
+    skill: <img src={MLImage} alt="Machine Learning" className="display-4" />,
+    name: "machine learning	",
   },
   {
     id: 4,
@@ -64,7 +67,7 @@ export const skillData = [
   },
   {
     id: 5,
-    skill: <Icon icon="logos:cuda" className="display-4" />,
+    skill: <img src={CudaImage} alt="CUDA" className="display-4" />,
     name: "CUDA",
   },
   {
