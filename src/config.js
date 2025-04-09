@@ -1,6 +1,5 @@
 // Skills icons - https://icon-sets.iconify.design/
 import { Icon } from "@iconify/react";
-import FontFaceObserver from 'fontfaceobserver';
 
 // Navbar Logo image (add your image to the src/images directory and uncomment the line below to import your image)
 // import newLogo from "./images/yourFileName"
