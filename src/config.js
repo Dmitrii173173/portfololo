@@ -40,7 +40,7 @@ export { HeroDark as Dark };
   Add a second paragraph for the about me section.
 */
 export const moreInfo =
-  " I studied Machine Learning and Artificial Intelligence during my Master's program at Lanzhou University of Technology, where I explored a wide range of subjects including algorithms, matrix theory, and software architecture. This academic journey sparked my interest in scientific research and inspired me to pursue a PhD. I am passionate about becoming a researcher and contributing to the field through high-quality publications in international journals. I enjoy solving complex problems, learning new technologies, and applying them to real-world challenges. My goal is to advance knowledge in computer science and make meaningful contributions to the research community.";
+  " Hi! I studied Machine Learning and Artificial Intelligence during my Master's program at Lanzhou University of Technology, where I explored a wide range of subjects including algorithms, matrix theory, and software architecture. This academic journey sparked my interest in scientific research and inspired me to pursue a PhD. I am passionate about becoming a researcher and contributing to the field through high-quality publications in international journals. I enjoy solving complex problems, learning new technologies, and applying them to real-world challenges. My goal is to advance knowledge in computer science and make meaningful contributions to the research community.";
 
 /* Skills
  ************************************************************** 
